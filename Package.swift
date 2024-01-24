@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Meridian",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v15)
     ],
     products: [
         .library(
@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Meridian",
-            url: "https://files.meridianapps.com/meridian-ios-sdk/meridian-ios-sdk-only-9.5.0.zip",
-            checksum: "3565d29e2c0375aa1c10a9afc3cd98527d495c36bba5991be2d78bfeaa88958a"
+            url: "https://files.meridianapps.com/meridian-ios-sdk/meridian-ios-sdk-only-10.0.0.zip",
+            checksum: "8528ba97b72b1196d168eed357ffabb96328a428086f29847351dad7eab58d94"
         )
     ]
 )
