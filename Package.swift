@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Meridian",
-            url: "https://files.meridianapps.com/meridian-ios-sdk/meridian-ios-sdk-only-10.0.0.zip",
-            checksum: "8528ba97b72b1196d168eed357ffabb96328a428086f29847351dad7eab58d94"
+            url: "https://files.meridianapps.com/meridian-ios-sdk/meridian-ios-sdk-only-10.1.0.zip",
+            checksum: "ab96b27a8ac6907a83ecf65f559490f9da5c6691a1a8fc3299e32b963794d27c"
         )
     ]
 )
